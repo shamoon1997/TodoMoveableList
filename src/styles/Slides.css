@@ -1,0 +1,23 @@
+.text-center{
+    text-align: center;
+    margin-top: 10%;
+}
+button{
+    margin-left: 2%;
+    background-color: lightgreen;
+    border: none;
+    padding: 2%;
+}
+button:hover:enabled{
+    background-color: green;
+    cursor: pointer;
+}
+.card{
+    border: 1px solid white;
+    background-color: wheat;
+    width: 40%;
+    height: 150px;
+    position: absolute;
+    left: 30%;
+    top: 15%;
+}
